@@ -1,0 +1,96 @@
+﻿
+          body 
+          {
+            background-color: Gray;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            margin: 0;
+            background-image: url('Image/BCAproj.jpg'); 
+            background-size: 1300px 1000px;
+            background-repeat: no-repeat;
+            background-position: center center;
+            
+            
+         }
+         
+        h2 
+        {
+            text-align: center;
+            color: #ff6600;
+            background-color: rgba(224, 224, 224, 0.8);
+            margin: 0;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .divdes {
+            color: gray;
+            width: 300px;
+            max-width: 400px;
+            padding: 10px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+            
+        }
+
+        #txtEmail,
+        #txtPassword {
+            width: 100%;
+            padding: 15px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 20px;
+            box-sizing: border-box;
+            background:linear-gradient(to right, #ccffff 0%, #ffffff 100%);
+        }
+        
+        #txtEmail, 
+        #txtPassword,
+        #btnAdmin_Login placeholder 
+        {
+            text-align: center;
+        }
+        
+        #btnAdmin_Login {
+            width: 100%;
+            font-size: 20px;
+            padding: 15px;
+            background: linear-gradient(to right, #000066 0%, #33cccc 100%);
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        #btnAdmin_Login:hover {
+            background-color: Red;            
+
+        }
+           
+              h2 {
+                font-size: 1.5em;
+            }
+            
+            h3
+            {
+               font-size: x-large;    
+            }
+
+            #btnAdmin_Login {
+                font-size: 16px;
+                padding: 10px;
+            }
+        
+    
+    
+   
+

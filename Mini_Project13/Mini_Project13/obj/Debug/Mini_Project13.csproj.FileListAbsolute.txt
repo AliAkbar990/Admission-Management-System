@@ -1,0 +1,5 @@
+C:\Users\USER\documents\visual studio 2010\Projects\Mini_Project13\Mini_Project13\bin\Mini_Project13.dll
+C:\Users\USER\documents\visual studio 2010\Projects\Mini_Project13\Mini_Project13\bin\Mini_Project13.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Mini_Project13\Mini_Project13\obj\Debug\Mini_Project13.dll
+C:\Users\USER\documents\visual studio 2010\Projects\Mini_Project13\Mini_Project13\obj\Debug\Mini_Project13.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Mini_Project13\Mini_Project13\obj\Debug\Mini_Project13.csprojResolveAssemblyReference.cache
